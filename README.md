@@ -22,15 +22,21 @@
 </p>
 
 <p align="center">
-  <sub>Currently shipping</sub>
+  <sub>✨&nbsp;&nbsp;Now shipping&nbsp;&nbsp;✨</sub>
 </p>
 
 <p align="center">
-  <a href="https://eraastrology.ai"><img src="https://img.shields.io/badge/ERA-Cosmobiology%20AI-B478FF?style=for-the-badge&logoColor=white" alt="ERA — Cosmobiology AI" /></a>
+  <a href="https://eraastrology.ai">
+    <img src="https://img.shields.io/badge/ERA-Cosmobiology%20AI-000000?style=for-the-badge&labelColor=000000&color=ffffff" alt="ERA — Cosmobiology AI" height="48" />
+  </a>
   &nbsp;
-  <a href="https://play.google.com/store/apps/details?id=ai.eraastrology.app"><img src="https://img.shields.io/badge/Google%20Play-Live-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="Live on Google Play" /></a>
-  &nbsp;
-  <a href="https://github.com/vikgmdev/forgetty"><img src="https://img.shields.io/badge/Forgetty-GTK4%20Rust%20terminal-E67E22?style=for-the-badge&logo=rust&logoColor=white" alt="Forgetty — GTK4 Rust terminal emulator" /></a>
+  <a href="https://play.google.com/store/apps/details?id=ai.eraastrology.app">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="64" />
+  </a>
+</p>
+
+<p align="center">
+  <sub><a href="https://eraastrology.ai">eraastrology.ai</a> · Cosmobiology AI — three-generation lineage, live on Android</sub>
 </p>
 
 <h2 align="center">Need a consultant?</h2>
