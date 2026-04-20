@@ -21,6 +21,18 @@
   <a href="mailto:vikgm.dev@gmail.com"><img src="https://img.shields.io/badge/Email-vikgm.dev@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+<p align="center">
+  <sub>Currently shipping</sub>
+</p>
+
+<p align="center">
+  <a href="https://eraastrology.ai"><img src="https://img.shields.io/badge/ERA-Cosmobiology%20AI-B478FF?style=for-the-badge&logoColor=white" alt="ERA — Cosmobiology AI" /></a>
+  &nbsp;
+  <a href="https://play.google.com/store/apps/details?id=ai.eraastrology.app"><img src="https://img.shields.io/badge/Google%20Play-Live-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white" alt="Live on Google Play" /></a>
+  &nbsp;
+  <a href="https://github.com/vikgmdev/forgetty"><img src="https://img.shields.io/badge/Forgetty-GTK4%20Rust%20terminal-E67E22?style=for-the-badge&logo=rust&logoColor=white" alt="Forgetty — GTK4 Rust terminal emulator" /></a>
+</p>
+
 <h2 align="center">Need a consultant?</h2>
 
 <p align="center">
