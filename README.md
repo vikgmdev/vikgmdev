@@ -252,7 +252,7 @@ Per-task git worktrees let me run 3–5 feature sessions in parallel; overnight 
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
 </p>
 
-<sub>Cosmos / Stellar / XRPL EVM: node operator (<code>cosmovisor</code>, BDJuno indexing, mainnet validators). Solana: RPC integrations and on-chain data indexing — not pitched as an operator. Solidity smart-contract exposure.</sub>
+<sub>Operator-grade experience across Cosmos · Stellar · XRPL EVM. Solana: RPC integrations and on-chain indexing (not pitched as a protocol specialist). Solidity smart-contract exposure.</sub>
 
 ---
 
@@ -271,7 +271,7 @@ Short, paid engagements for teams that want real engineering on top of AI — no
 - **Elasticsearch migrations** — major-version upgrades on live platforms. Shape-compare safety net, dual-write phases, per-service SPEC → Build → QA, reversible flip-back. Zero regression is the _target_, not a wish.
 - **PostgreSQL HA + real DR** — streaming replication, `pgBackRest` to off-provider storage, _automated restore testing_ so you find out DR is broken on Tuesday afternoon, not at 3am.
 - **Redis — Cluster + hardening** — multi-instance topology per workload, end-to-end lockdown (VLAN + localhost + `protected-mode` + auth), Prometheus federation + paging. No more caches listening on `0.0.0.0`.
-- **Kafka** — TLS + SASL/SCRAM + per-consumer ACLs, 3-broker topology, the streaming backbone without the footguns.
+- **Kafka** — TLS + SASL/SCRAM + per-consumer ACLs, the streaming backbone without the footguns.
 - **AI-multiplied engineering for your team** — how to plug Claude Code / MCP / multi-agent harnesses into your real SDLC without turning your codebase into a vibe-coded graveyard. Architecture-first, shipping-focused.
 
 <p>
