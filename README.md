@@ -27,16 +27,19 @@
 
 <p align="center">
   <a href="https://eraastrology.ai">
-    <img src="https://img.shields.io/badge/ERA-Cosmobiology%20AI-000000?style=for-the-badge&labelColor=000000&color=ffffff" alt="ERA — Cosmobiology AI" height="48" />
-  </a>
-  &nbsp;
-  <a href="https://play.google.com/store/apps/details?id=ai.eraastrology.app">
-    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="64" />
+    <img src="assets/era-icon.png" alt="ERA — Cosmobiology AI" width="96" height="96" />
   </a>
 </p>
 
 <p align="center">
-  <sub><a href="https://eraastrology.ai">eraastrology.ai</a> · Cosmobiology AI — three-generation lineage, live on Android</sub>
+  <strong>ERA — Cosmobiology AI</strong><br/>
+  <sub><a href="https://eraastrology.ai">eraastrology.ai</a> · three-generation lineage, live on Android</sub>
+</p>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=ai.eraastrology.app">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="72" />
+  </a>
 </p>
 
 <h2 align="center">Need a consultant?</h2>
