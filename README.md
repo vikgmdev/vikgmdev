@@ -52,6 +52,14 @@
   <a href="mailto:vikgm.dev@gmail.com?subject=Kubernetes%20consulting%20inquiry">
     <img src="https://img.shields.io/badge/Kubernetes%20Consultant-Bare%20Metal%20%26%20GitOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Consultant — Bare Metal & GitOps" />
   </a>
+  &nbsp;
+  <a href="https://vikgmdev.com/ship-10x">
+    <img src="https://img.shields.io/badge/Ship--10x-AI%20Operating%20System%20%E2%86%92-f97316?style=for-the-badge&logo=rocket&logoColor=white" alt="Ship-10x — The AI-Multiplied Engineer's Operating System" />
+  </a>
+</p>
+
+<p align="center">
+  <sub><em>Ship-10x → the exact multi-agent harness I used to ship Forgetty (38K Rust LOC / 24 days) and launch ERA to Google Play. Founding-member price: <strong>$497</strong> · 10 seats only.</em></sub>
 </p>
 
 ---
@@ -264,7 +272,13 @@ Short, paid engagements for teams that want real engineering on top of AI — no
   <img src="https://img.shields.io/badge/NestJS%20Expert-Migrations%20%26%20Architecture-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS Expert — Migrations & Architecture" />
   &nbsp;
   <img src="https://img.shields.io/badge/Kubernetes%20Consultant-Bare%20Metal%20%26%20GitOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Consultant — Bare Metal & GitOps" />
+  &nbsp;
+  <a href="https://vikgmdev.com/ship-10x">
+    <img src="https://img.shields.io/badge/Ship--10x-AI%20Operating%20System%20%E2%86%92-f97316?style=for-the-badge&logo=rocket&logoColor=white" alt="Ship-10x — The AI-Multiplied Engineer's Operating System" />
+  </a>
 </p>
+
+> **Not hiring a consultant but still want the system?** → [**Ship-10x**](https://vikgmdev.com/ship-10x) packages the exact multi-agent harness I use — for founders and senior ICs who want the output without the full engagement. Founding-member price **$497**, 10 seats.
 
 - **NestJS expert** — migrations _to_ NestJS from Express / Koa / vanilla Node / monolithic TS backends. Architecture, module boundaries, DI done right, GraphQL / REST / WebSockets / MCP resolvers, testing and CI/CD. Shipped large NestJS codebases in production — I know how to land the migration without freezing your feature work.
 - **Kubernetes on bare metal** — bootstrap from scratch, reproducible in an afternoon. kubeadm HA control plane, Cilium eBPF, ArgoCD GitOps, External Secrets Operator + Vault, Cloudflared Zero Trust ingress, observability that actually pages the right person.
