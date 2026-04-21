@@ -59,8 +59,14 @@
 </p>
 
 <p align="center">
-  <sub><em>Ship-to-Live → you vibe-coded a working app. In 10 business days it's deployed, monitored, backed up, and alerting you when it breaks. From <strong>$297</strong> (DIY playbook) to <strong>$1,500</strong> (done-for-you) to <strong>$500/mo</strong> (ongoing ops).</em></sub>
+  <sub><em>Ship-to-Live → you vibe-coded a working app. In 10 business days it's deployed, monitored, backed up, and alerting you when it breaks. <strong>$497 Audit</strong> · <strong>$1,500 Core</strong> (done-for-you in 10 days) · <strong>$2,500 Launch</strong> (5-day rush + launch-weekend war room). Free playbook → <a href="https://github.com/vikgmdev/ship-to-live">github.com/vikgmdev/ship-to-live</a></em></sub>
 </p>
+
+> **You vibe-coded an app. You need it in production.** → [**Ship-to-Live**](https://vikgmdev.com/ship-to-live): I audit it, containerize it, deploy it to Kubernetes (mine or yours), wire monitoring + backups + CI/CD, and stay on call for 30 days.
+>
+> **$497** Audit · **$1,500** Core (done-for-you in 10 days) · **$2,500** 🚨 Launch (5-day rush + launch-weekend war room) · **$500/mo** ongoing ops
+>
+> Free self-serve playbook → [github.com/vikgmdev/ship-to-live](https://github.com/vikgmdev/ship-to-live)
 
 ---
 
@@ -125,7 +131,7 @@ Not a cache sitting on `0.0.0.0`. Multi-instance, per-service, end-to-end harden
 "We have backups" is not DR. "Our restore runs every week and passes shape-compare" is DR.
 
 - **PostgreSQL HA** with streaming replication (primary + replicas)
-- **pgBackRest** local + SFTP to off-provider storage (Hetzner Storage Box)
+- **pgBackRest** local + SFTP to off-provider S3-compatible storage
 - **Automated DR restore testing** on a dedicated restore host — we find out when DR breaks, not during an outage
 - **Knex** for migrations, careful dual-write patterns for schema drift
 - Role-based access, `SCRAM-SHA-256`, `pg_hba` policy per tier, tuned `checkpoint_*` / `shared_buffers` / `effective_cache_size`
@@ -244,9 +250,9 @@ Per-task git worktrees let me run 3–5 feature sessions in parallel; overnight 
 #### Cloud & bare metal
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" alt="Cloud" />
+  <img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" alt="Cloudflare" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" alt="Hetzner" />
+  <img src="https://img.shields.io/badge/Bare--metal%20K8s-self--managed-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Bare-metal self-managed Kubernetes" />
   <img src="https://img.shields.io/badge/OVH-123F6D?style=for-the-badge&logo=ovh&logoColor=white" alt="OVH" />
 </p>
 
@@ -278,7 +284,11 @@ Short, paid engagements for teams that want real engineering on top of AI — no
   </a>
 </p>
 
-> **You vibe-coded an app. You need it in production.** → [**Ship-to-Live**](https://vikgmdev.com/ship-to-live): I audit it, containerize it, deploy it to Kubernetes (mine or yours), wire monitoring + backups + CI/CD, and stay on call for 30 days. **$1,500** core · **$297** DIY playbook · **$500/mo** ongoing ops.
+> **You vibe-coded an app. You need it in production.** → [**Ship-to-Live**](https://vikgmdev.com/ship-to-live): I audit it, containerize it, deploy it to Kubernetes (mine or yours), wire monitoring + backups + CI/CD, and stay on call for 30 days.
+>
+> **$497** Audit · **$1,500** Core (done-for-you in 10 days) · **$2,500** 🚨 Launch (5-day rush + launch-weekend war room) · **$500/mo** ongoing ops
+>
+> Free self-serve playbook → [github.com/vikgmdev/ship-to-live](https://github.com/vikgmdev/ship-to-live)
 
 - **NestJS expert** — migrations _to_ NestJS from Express / Koa / vanilla Node / monolithic TS backends. Architecture, module boundaries, DI done right, GraphQL / REST / WebSockets / MCP resolvers, testing and CI/CD. Shipped large NestJS codebases in production — I know how to land the migration without freezing your feature work.
 - **Kubernetes on bare metal** — bootstrap from scratch, reproducible in an afternoon. kubeadm HA control plane, Cilium eBPF, ArgoCD GitOps, External Secrets Operator + Vault, Cloudflared Zero Trust ingress, observability that actually pages the right person.
