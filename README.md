@@ -53,13 +53,13 @@
     <img src="https://img.shields.io/badge/Kubernetes%20Consultant-Bare%20Metal%20%26%20GitOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Consultant — Bare Metal & GitOps" />
   </a>
   &nbsp;
-  <a href="https://vikgmdev.com/ship-10x">
-    <img src="https://img.shields.io/badge/Ship--10x-AI%20Operating%20System%20%E2%86%92-f97316?style=for-the-badge&logo=rocket&logoColor=white" alt="Ship-10x — The AI-Multiplied Engineer's Operating System" />
+  <a href="https://vikgmdev.com/ship-to-live">
+    <img src="https://img.shields.io/badge/Ship--to--Live-Your%20app%20alive%20in%20prod%20%E2%86%92-f97316?style=for-the-badge&logo=rocket&logoColor=white" alt="Ship-to-Live — Your vibe-coded app, deployed, monitored, alive" />
   </a>
 </p>
 
 <p align="center">
-  <sub><em>Ship-10x → the exact multi-agent harness I used to ship Forgetty (38K Rust LOC / 24 days) and launch ERA to Google Play. Founding-member price: <strong>$497</strong> · 10 seats only.</em></sub>
+  <sub><em>Ship-to-Live → you vibe-coded a working app. In 10 business days it's deployed, monitored, backed up, and alerting you when it breaks. From <strong>$297</strong> (DIY playbook) to <strong>$1,500</strong> (done-for-you) to <strong>$500/mo</strong> (ongoing ops).</em></sub>
 </p>
 
 ---
@@ -273,12 +273,12 @@ Short, paid engagements for teams that want real engineering on top of AI — no
   &nbsp;
   <img src="https://img.shields.io/badge/Kubernetes%20Consultant-Bare%20Metal%20%26%20GitOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Consultant — Bare Metal & GitOps" />
   &nbsp;
-  <a href="https://vikgmdev.com/ship-10x">
-    <img src="https://img.shields.io/badge/Ship--10x-AI%20Operating%20System%20%E2%86%92-f97316?style=for-the-badge&logo=rocket&logoColor=white" alt="Ship-10x — The AI-Multiplied Engineer's Operating System" />
+  <a href="https://vikgmdev.com/ship-to-live">
+    <img src="https://img.shields.io/badge/Ship--to--Live-Your%20app%20alive%20in%20prod%20%E2%86%92-f97316?style=for-the-badge&logo=rocket&logoColor=white" alt="Ship-to-Live — Your vibe-coded app, deployed, monitored, alive" />
   </a>
 </p>
 
-> **Not hiring a consultant but still want the system?** → [**Ship-10x**](https://vikgmdev.com/ship-10x) packages the exact multi-agent harness I use — for founders and senior ICs who want the output without the full engagement. Founding-member price **$497**, 10 seats.
+> **You vibe-coded an app. You need it in production.** → [**Ship-to-Live**](https://vikgmdev.com/ship-to-live): I audit it, containerize it, deploy it to Kubernetes (mine or yours), wire monitoring + backups + CI/CD, and stay on call for 30 days. **$1,500** core · **$297** DIY playbook · **$500/mo** ongoing ops.
 
 - **NestJS expert** — migrations _to_ NestJS from Express / Koa / vanilla Node / monolithic TS backends. Architecture, module boundaries, DI done right, GraphQL / REST / WebSockets / MCP resolvers, testing and CI/CD. Shipped large NestJS codebases in production — I know how to land the migration without freezing your feature work.
 - **Kubernetes on bare metal** — bootstrap from scratch, reproducible in an afternoon. kubeadm HA control plane, Cilium eBPF, ArgoCD GitOps, External Secrets Operator + Vault, Cloudflared Zero Trust ingress, observability that actually pages the right person.
