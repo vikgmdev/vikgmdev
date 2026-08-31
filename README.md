@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm Victor 👋</h1>
 
 <p align="center">
-  <strong>NestJS &amp; Kubernetes consultant · Founder at Totem Labs Forge</strong>
+  <strong>Backend &amp; Infrastructure Engineer · Node.js · Kubernetes · AI-native systems</strong>
 </p>
 
 <p align="center">
-  <em>Not a vibe coder. A senior engineer with the architecture background AI needs to actually ship something real.</em>
+  <em>A senior engineer with the architecture background AI needs to actually ship something real.</em>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <sub>✨&nbsp;&nbsp;Now shipping&nbsp;&nbsp;✨</sub>
+  <sub>✨&nbsp;&nbsp;Side project&nbsp;&nbsp;✨</sub>
 </p>
 
 <p align="center">
@@ -42,42 +42,16 @@
   </a>
 </p>
 
-<h2 align="center">Need a consultant?</h2>
-
-<p align="center">
-  <a href="mailto:vikgm.dev@gmail.com?subject=NestJS%20consulting%20inquiry">
-    <img src="https://img.shields.io/badge/NestJS%20Expert-Migrations%20%26%20Architecture-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS Expert — Migrations & Architecture" />
-  </a>
-  &nbsp;
-  <a href="mailto:vikgm.dev@gmail.com?subject=Kubernetes%20consulting%20inquiry">
-    <img src="https://img.shields.io/badge/Kubernetes%20Consultant-Bare%20Metal%20%26%20GitOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Consultant — Bare Metal & GitOps" />
-  </a>
-  &nbsp;
-  <a href="https://vikgmdev.com/ship-to-live">
-    <img src="https://img.shields.io/badge/Ship--to--Live-Your%20app%20alive%20in%20prod%20%E2%86%92-f97316?style=for-the-badge&logo=rocket&logoColor=white" alt="Ship-to-Live — Your vibe-coded app, deployed, monitored, alive" />
-  </a>
-</p>
-
-<p align="center">
-  <sub><em>Ship-to-Live → you vibe-coded a working app. In 10 business days it's deployed, monitored, backed up, and alerting you when it breaks. <strong>$497 Audit</strong> · <strong>$1,500 Core</strong> (done-for-you in 10 days) · <strong>$2,500 Launch</strong> (5-day rush + launch-weekend war room). Free playbook → <a href="https://github.com/vikgmdev/ship-to-live">github.com/vikgmdev/ship-to-live</a></em></sub>
-</p>
-
-> **You vibe-coded an app. You need it in production.** → [**Ship-to-Live**](https://vikgmdev.com/ship-to-live): I audit it, containerize it, deploy it to Kubernetes (mine or yours), wire monitoring + backups + CI/CD, and stay on call for 30 days.
->
-> **$497** Audit · **$1,500** Core (done-for-you in 10 days) · **$2,500** 🚨 Launch (5-day rush + launch-weekend war room) · **$500/mo** ongoing ops
->
-> Free self-serve playbook → [github.com/vikgmdev/ship-to-live](https://github.com/vikgmdev/ship-to-live)
-
 ---
 
 ## What I do
 
 **A decade as a Backend Engineer first.** Node.js / TypeScript / NestJS / GraphQL / microservices — before anything else, that's the root. On top of that: years of hands-on infrastructure at bare-metal scale (Kubernetes, Ansible, Kafka, Postgres HA, Elasticsearch, Redis Cluster), and the last ~2 years going deep on AI — building MCP servers in production, running multi-agent harnesses, and shipping AI-native products end-to-end.
 
-I run two parallel tracks today:
+Two tracks today:
 
 1. **Senior Backend / DevOps** at a blockchain security platform — platform, API, observability, on-call.
-2. **Founder & sole engineer** at [Totem Labs Forge LLC](https://totemlabs.io) — a Delaware product studio where I design, build and ship AI-first products end-to-end under a custom multi-agent harness.
+2. **Personal side projects**, built on my own time under [Totem Labs Forge](https://totemlabs.io) — where I design and build AI-first products end-to-end with a custom multi-agent harness.
 
 ### Engineer first, then AI-multiplied
 
@@ -157,7 +131,7 @@ Drove a **major-version migration (v7 → v9) with zero regression** on a live, 
 
 ---
 
-## Products I'm shipping from Totem Labs Forge
+## Side projects
 
 ### 🔮 [ERA — Cosmobiology AI](https://eraastrology.ai)
 
@@ -169,7 +143,7 @@ MIT on [github.com/vikgmdev/forgetty](https://github.com/vikgmdev/forgetty). Dae
 
 ### 🧠 Forge harness
 
-The methodology that made Forgetty and ERA possible at solo-founder velocity. A three-phase subagent-isolated workflow:
+The methodology that made Forgetty and ERA possible in my own time. A three-phase subagent-isolated workflow:
 
 - **Plan** — spec + acceptance criteria agent
 - **Build** — implementation agent with mandatory `simplify` / `audit-rust` / `audit-security` passes
@@ -267,42 +241,6 @@ Per-task git worktrees let me run 3–5 feature sessions in parallel; overnight 
 </p>
 
 <sub>Operator-grade experience across Cosmos · Stellar · XRPL EVM. Solana: RPC integrations and on-chain indexing (not pitched as a protocol specialist). Solidity smart-contract exposure.</sub>
-
----
-
-## Hire me
-
-Short, paid engagements for teams that want real engineering on top of AI — not the other way around.
-
-<p>
-  <img src="https://img.shields.io/badge/NestJS%20Expert-Migrations%20%26%20Architecture-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS Expert — Migrations & Architecture" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Kubernetes%20Consultant-Bare%20Metal%20%26%20GitOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Consultant — Bare Metal & GitOps" />
-  &nbsp;
-  <a href="https://vikgmdev.com/ship-to-live">
-    <img src="https://img.shields.io/badge/Ship--to--Live-Your%20app%20alive%20in%20prod%20%E2%86%92-f97316?style=for-the-badge&logo=rocket&logoColor=white" alt="Ship-to-Live — Your vibe-coded app, deployed, monitored, alive" />
-  </a>
-</p>
-
-> **You vibe-coded an app. You need it in production.** → [**Ship-to-Live**](https://vikgmdev.com/ship-to-live): I audit it, containerize it, deploy it to Kubernetes (mine or yours), wire monitoring + backups + CI/CD, and stay on call for 30 days.
->
-> **$497** Audit · **$1,500** Core (done-for-you in 10 days) · **$2,500** 🚨 Launch (5-day rush + launch-weekend war room) · **$500/mo** ongoing ops
->
-> Free self-serve playbook → [github.com/vikgmdev/ship-to-live](https://github.com/vikgmdev/ship-to-live)
-
-- **NestJS expert** — migrations _to_ NestJS from Express / Koa / vanilla Node / monolithic TS backends. Architecture, module boundaries, DI done right, GraphQL / REST / WebSockets / MCP resolvers, testing and CI/CD. Shipped large NestJS codebases in production — I know how to land the migration without freezing your feature work.
-- **Kubernetes on bare metal** — bootstrap from scratch, reproducible in an afternoon. kubeadm HA control plane, Cilium eBPF, ArgoCD GitOps, External Secrets Operator + Vault, Cloudflared Zero Trust ingress, observability that actually pages the right person.
-- **Elasticsearch migrations** — major-version upgrades on live platforms. Shape-compare safety net, dual-write phases, per-service SPEC → Build → QA, reversible flip-back. Zero regression is the _target_, not a wish.
-- **PostgreSQL HA + real DR** — streaming replication, `pgBackRest` to off-provider storage, _automated restore testing_ so you find out DR is broken on Tuesday afternoon, not at 3am.
-- **Redis — Cluster + hardening** — multi-instance topology per workload, end-to-end lockdown (VLAN + localhost + `protected-mode` + auth), Prometheus federation + paging. No more caches listening on `0.0.0.0`.
-- **Kafka** — TLS + SASL/SCRAM + per-consumer ACLs, the streaming backbone without the footguns.
-- **AI-multiplied engineering for your team** — how to plug Claude Code / MCP / multi-agent harnesses into your real SDLC without turning your codebase into a vibe-coded graveyard. Architecture-first, shipping-focused.
-
-<p>
-  <a href="mailto:vikgm.dev@gmail.com?subject=Consulting%20inquiry">
-    <img src="https://img.shields.io/badge/📧%20Email%20me%20to%20book%20a%20call-vikgm.dev@gmail.com-F97316?style=for-the-badge" alt="Email me to book a call" />
-  </a>
-</p>
 
 ---
 
